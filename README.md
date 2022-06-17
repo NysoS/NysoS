@@ -7,6 +7,7 @@ About me
 - 📫 How to reach me :
     - Web Site : https://www.lk-portfolio.fr/
     - ArtStation : https://www.artstation.com/nsysos
+    - LinkedIn : https://www.linkedin.com/in/kristofer-ledoux-068aa3192/
 
 Favorite language
 -----

@@ -24,13 +24,13 @@ Language
 Framework
 -----
 <img align="left" alt="Symfony" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony-original-wordmark.svg" />
-<img align="left" alt="Vujs" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs-original-wordmark.svg" />
+<img align="left" alt="Vujs" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img alt="Spring" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 
 Stats
 -----
-![GHstats](https://github-readme-stats.vercel.app/api?username=NysoS&how_icons=true#gh-light-mode-only)
-![GHstats](https://github-readme-stats.vercel.app/api?username=NysoS&how_icons=true#gh-dark-mode-only)
+![GHstats](https://github-readme-stats.vercel.app/api?username=NysoS&show_icons=true)
+
 
 <!---
 NysoS/NysoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

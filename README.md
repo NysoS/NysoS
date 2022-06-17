@@ -1,12 +1,12 @@
 About me
 -----
-* 👋 Hi, I’m @NysoS (Kristofer LEDOUX)
-* 👀 I’m interested in video games, programming
-* 🌱 I’m currently learning on programming
-* 💞️ I’m looking to collaborate on ...
-* 📫 How to reach me :
- ... Web Site : https://www.lk-portfolio.fr/
- * ArtStation : https://www.artstation.com/nsysos
+- 👋 Hi, I’m @NysoS (Kristofer LEDOUX)
+- 👀 I’m interested in video games, programming
+- 🌱 I’m currently learning on programming
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me :
+    - Web Site : https://www.lk-portfolio.fr/
+    - ArtStation : https://www.artstation.com/nsysos
 
 Favorite language
 -----

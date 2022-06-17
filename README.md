@@ -8,7 +8,7 @@
 
 Favorite language
 -----
-![](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){width=50%}
+![text](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg){ width=60%,height:30px }
 
 <!---
 NysoS/NysoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

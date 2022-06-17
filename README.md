@@ -1,3 +1,5 @@
+About me
+-----
 - 👋 Hi, I’m @NysoS (Kristofer LEDOUX)
 - 👀 I’m interested in video games, programming
 - 🌱 I’m currently learning on programming

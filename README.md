@@ -6,8 +6,9 @@
 - Web Site : https://www.lk-portfolio.fr/
 - ArtStation : https://www.artstation.com/nsysos
 
-Alt-H2
+Favorite language
 -----
+![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css "Logo C#")
 
 <!---
 NysoS/NysoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

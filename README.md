@@ -8,7 +8,7 @@
 
 Favorite language
 -----
-![alt text](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css "Logo C#")
+![https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css]
 
 <!---
 NysoS/NysoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NysoS
+- 👋 Hi, I’m @NysoS (Kristofer LEDOUX)
 - 👀 I’m interested in video games, programming
 - 🌱 I’m currently learning on programming
 - 💞️ I’m looking to collaborate on ...
@@ -20,6 +20,14 @@ Language
 <img align="left" alt="C++" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 <img align="left" alt="SQL_Server" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 <img alt="MySql" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+Framework
+-----
+<img align="left" alt="Symfony" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" />
+<img align="left" alt="Vujs" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+<img alt="Spring" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+
+![GHstats](https://github-readme-stats.vercel.app/api?username=NysoS&how_icons=true)
 
 <!---
 NysoS/NysoS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

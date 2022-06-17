@@ -23,7 +23,7 @@ Language
 
 Framework
 -----
-<img align="left" alt="Symfony" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony-original-wordmark.svg" />
+<img align="left" alt="Symfony" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original-wordmark.svg" />
 <img align="left" alt="Vujs" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
 <img alt="Spring" width="10%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
 

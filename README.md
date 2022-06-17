@@ -5,8 +5,8 @@ About me
 - 🌱 I’m currently learning on programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :
---1 Web Site : https://www.lk-portfolio.fr/
---2 ArtStation : https://www.artstation.com/nsysos
+ 1 Web Site : https://www.lk-portfolio.fr/
+ 2 ArtStation : https://www.artstation.com/nsysos
 
 Favorite language
 -----

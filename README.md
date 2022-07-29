@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-symfony-original-wordmark"></i>
 About me
 -----
 - 👋 Hi, I’m @NysoS (Kristofer LEDOUX)

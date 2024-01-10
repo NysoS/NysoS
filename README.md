@@ -77,4 +77,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nysos&show_icons=true&locale=en" alt="nysos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nysos&" alt="nysos" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NysoS" alt="nysos" /></p>

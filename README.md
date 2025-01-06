@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Kristofer Ledoux (NysoS)</h1>
 <h3 align="center">A passionate web / game programming</h3>
 
-- 🔭 I’m currently working on **full stack web developer**
+- 🔭 I’m currently working on **Junior Software Engineer**
 
 - 🌱 I’m currently learning **game/engine programing**
 
 - 👨‍💻 All of my projects are available at :
-  - Web Site : https://www.lk-portfolio.fr/
+  - Web Site : https://kristofer-ledoux.fr/
   - ArtStation : https://www.artstation.com/nsysos
 
 - 📫 How to reach me **k.ledoux.dev@gmail.com**

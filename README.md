@@ -78,3 +78,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nysos&show_icons=true&locale=en" alt="nysos" /></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nysos)](https://github.com/anuraghazra/github-readme-stats)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NysoS" alt="nysos" /></p>
+<img align="center" src="https://github.com/NysoS/GraphQL-Github-Widget_CommitCount/blob/main/Counter_svg_commit.svg" alt="nysos" />

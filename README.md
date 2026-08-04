@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Junior Software Engineer**
 
-- 🌱 I’m currently learning **game/engine programing**
+- 🌱 I’m currently learning **game/engine programing** and **hardware/firware programing**
 
 - 👨‍💻 All of my projects are available at :
   - Web Site : https://kristofer-ledoux.fr/

@@ -1,3 +1,7 @@
+# Hi, I'm NysoS
+
+![Status](https://img.shields.io/badge/Status-Debugging_the_brain-00599C?style=flat-square) ![Graphics](https://img.shields.io/badge/Graphics-Eat_pixels-FF6B00?style=flat-square)
+
 ### Who am I?
 
 - I was a **Java** disciple back in the day, I finished with **Java** before the JVM even booted 🤫.  
